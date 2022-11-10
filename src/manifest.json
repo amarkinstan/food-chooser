@@ -1,0 +1,10 @@
+{
+  "name": "chooser",
+  "short_name": "chooser",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#336699",
+  "icons": []
+}
